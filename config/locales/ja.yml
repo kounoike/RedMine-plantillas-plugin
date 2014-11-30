@@ -1,0 +1,26 @@
+# Japanese strings go here for Rails i18n
+ja:
+  my_label: "My label"
+  label_template: "Wiki テンプレート" 
+  label_template_new: "新しいテンプレート"
+  label_template_title: "テンプレートの名前"
+  label_template_content: "テンプレートの内容"
+  label_template_select: "選択"
+  label_wiki_blanco: "テンプレートを使用しない" 
+  label_choose_template: "テンプレートを選択"
+  label_preview_plantillas: "テンプレートのプレビューです"
+  label_template_delete: "テンプレートの削除が完了しました"
+  label_template_successful_update: "テンプレートの更新が完了しました"
+  label_global_sep_template: "グローバル"
+  permission_view_templates: "テンプレートを閲覧する"
+  permission_delete_templates: "テンプレートを削除する"
+  permission_create_templates: "テンプレートを作成する"
+  permission_edit_templates: "テンプレートを編集する"
+  project_module_templates: "Wiki テンプレート"
+  app_menu_global_templates: "グローバル Wiki テンプレート"
+  label_visible_children: "子プロジェクトから見えるようにする" 
+  label_visible_child: "子プロジェクトから閲覧" 
+  field_visible_children: "子プロジェクトから閲覧"  
+  label_parent_templates: "親テンプレート"
+
+
